@@ -5,7 +5,7 @@ const Portfolio_data = [
     paragraph: "Capstone Project Directory System for UST IT is a directory system which will serve as a platform to provide an efficient way of managing and organizing the different capstone projects.",
     paragraph1: "It is a centralized web repository that will properly store capstone projects, manage the IP registry of each project, and provide a platform where panelists can review uploaded capstone files.",
     title: "Capstone Directory System for UST IT ",
-    image: "./image/capstonesystem.png",
+    image: "./image/capstonesystem.PNG",
   },
   {
     id: 2,
