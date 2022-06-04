@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Jazz-Portfolio/static/css/main.06598b68.css",
-    "main.js": "/Jazz-Portfolio/static/js/main.1a58931a.js",
+    "main.js": "/Jazz-Portfolio/static/js/main.3ebbec18.js",
     "static/js/787.d649bac9.chunk.js": "/Jazz-Portfolio/static/js/787.d649bac9.chunk.js",
     "static/media/hero.png": "/Jazz-Portfolio/static/media/hero.02d0619e711649d67888.png",
     "static/media/logo.png": "/Jazz-Portfolio/static/media/logo.db617f2fe459c272720f.png",
     "static/media/Gocon_UpdatedResume.pdf": "/Jazz-Portfolio/static/media/Gocon_UpdatedResume.31bc833d01201e72c1f2.pdf",
     "index.html": "/Jazz-Portfolio/index.html",
     "main.06598b68.css.map": "/Jazz-Portfolio/static/css/main.06598b68.css.map",
-    "main.1a58931a.js.map": "/Jazz-Portfolio/static/js/main.1a58931a.js.map",
+    "main.3ebbec18.js.map": "/Jazz-Portfolio/static/js/main.3ebbec18.js.map",
     "787.d649bac9.chunk.js.map": "/Jazz-Portfolio/static/js/787.d649bac9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.06598b68.css",
-    "static/js/main.1a58931a.js"
+    "static/js/main.3ebbec18.js"
   ]
 }
